@@ -23,7 +23,7 @@
 
 const weather = {
   apiKey: "14638bc28adc3ee1c8960e1a5a42bc36",
-  url: "http://api.openweathermap.org/data/2.5/weather?q=",
+  url: "https://api.openweathermap.org/data/2.5/weather?q=",
 };
 
 // const e = "andheri";
